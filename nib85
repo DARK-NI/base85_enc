@@ -1,0 +1,3 @@
+cd
+cd $HOME/base85_enc
+python base85_enc.py
